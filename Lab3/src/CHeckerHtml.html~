@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>Welcome</title>
+	<head>
+	<body>
+		<applet code="Checker" width=500 height = 500></applet>
+	</body>
+</html>
